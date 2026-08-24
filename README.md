@@ -1,21 +1,21 @@
-## Yasmin Ferrari Dias 👩‍💻
+## Yasmin Ferrari Dias
 
 <p>Desenvolvedora Front-End com base sólida em back-end, formada em Técnico de Informática e estudante de Engenharia de Software na SATC.
 Além do código, tenho experiência com levantamento de requisitos, modelagem de banco de dados, diagramas, testes e integração com IA.
 Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expandindo o repertório. Também tenho olhar para design de interfaces e experiência com UI.</p>
 
-</br>
+<br>
 
 <div>
   <a href="https://github.com/YasminFerrariDias">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=YasminFerrariDias&theme=tokyonight&show_icons=true">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminFerrariDias&layout=compact&langs_count=16&theme=tokyonight">
+    <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=YasminFerrariDias&theme=tokyonight&show_icons=true">
+    <img height="180cm" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasminFerrariDias&layout=compact&langs_count=16&theme=tokyonight">
   </a>
 </div>
 
-</br>
+<br>
 
-### 🚀 Linguagens
+### Linguagens
 
 <div style="display: inline-block">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,9 +30,9 @@ Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expan
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
-</br>
+<br>
 
-### 🧩 Frameworks e Bibliotecas
+### Frameworks e Bibliotecas
 
 <div style="display: inline-block">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -44,22 +44,20 @@ Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expan
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
-</br>
+<br>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <div style="display: inline-block">
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt="androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="filter: invert(1);" />
   <img align="center" alt="anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
 </div>
 
-</br>
-
-##
+<br>
 
 <div>
   <a href="https://www.instagram.com/itsyassfd" target="_blank">
